@@ -1,0 +1,8 @@
+# 这个仓库只放「发布说明」，DMG 走 GitHub Releases，不进 git 历史
+*.dmg
+*.pkg
+*.zip
+*.app
+build/
+dist/
+.DS_Store
