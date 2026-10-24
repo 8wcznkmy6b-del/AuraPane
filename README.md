@@ -36,6 +36,10 @@ xattr -dr com.apple.quarantine /Applications/AuraPane.app
 - 本地检索索引存在你自己的磁盘上（SQLite），随笔记库走；
 - 只有在你自己配置了远程模型服务时，才会按你的配置发出请求。
 
+## 许可
+
+**免费供个人、非商业使用**；禁止反编译/逆向工程、再分发与商业使用。完整条款见 [LICENSE.md](LICENSE.md)，商业授权请开 [Issue](../../issues) 联系。
+
 ## 反馈
 
 - 使用问题、功能建议、崩溃反馈：请开 [Issue](../../issues)；
@@ -48,3 +52,4 @@ xattr -dr com.apple.quarantine /Applications/AuraPane.app
 ---
 
 <sub>源码不在本仓库公开。此处只分发构建产物，版本号与源码仓库的 tag 一一对应。</sub>
+<sub>Copyright © 2026 dochi. All rights reserved.</sub>
